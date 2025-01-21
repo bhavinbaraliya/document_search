@@ -41,7 +41,7 @@ An intelligent application to upload PDFs and interact with their content using 
    ![S3 Bucket Screenshot](https://github.com/bhavinbaraliya/document_search/blob/main/Screenshot%202025-01-20%20093257.png)
 
 2. **Metadata in PostgreSQL:**
-   ![PostgreSQL Metadata Screenshot](paste-your-screenshot-link-here)
+   ![PostgreSQL Metadata Screenshot](https://github.com/bhavinbaraliya/document_search/blob/main/Screenshot%202025-01-20%20093242.png)
 
 ### Screen Recording  
 - Watch how it works: [Insert video link here]  
