@@ -38,7 +38,7 @@ An intelligent application to upload PDFs and interact with their content using 
 
 ### Screenshots
 1. **File Stored in S3 Bucket:**
-   ![S3 Bucket Screenshot](paste-your-screenshot-link-here)
+   ![S3 Bucket Screenshot](https://github.com/bhavinbaraliya/document_search/blob/main/Screenshot%202025-01-20%20093257.png)
 
 2. **Metadata in PostgreSQL:**
    ![PostgreSQL Metadata Screenshot](paste-your-screenshot-link-here)
