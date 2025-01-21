@@ -44,6 +44,6 @@ An intelligent application to upload PDFs and interact with their content using 
    ![PostgreSQL Metadata Screenshot](https://github.com/bhavinbaraliya/document_search/blob/main/Screenshot%202025-01-20%20093242.png)
 
 ### Screen Recording  
-- Watch how it works: [Insert video link here]  
+- Watch how it works: (https://via.placeholder.com/800x450.png?text=Click+to+Watch+Demo)](https://drive.google.com/file/d/1Wibvge4eNTMOu010UokrIsKBcycuxPx-/view?usp=drive_link)
 
 ---
